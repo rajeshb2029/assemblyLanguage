@@ -1,0 +1,2 @@
+install gcc-4.x-multilib
+compile with -m32 option in gcc
