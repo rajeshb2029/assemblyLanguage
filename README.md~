@@ -1,6 +1,6 @@
 # AssemblyLanguage
 Assembly language programs practice using Netwide Assembler
-Based on book from http://www.drpaulcarter.com/pcasm/
+http://www.drpaulcarter.com/pcasm/
 
 ### Compilation instructions
 * install gcc-4.x-multilib
